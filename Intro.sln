@@ -7,15 +7,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tasks", "Tasks", "{F3A6BBD8
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MaskTracking", "MaskTracking", "{590A63D4-1BDE-44C3-871B-B9ACCC9D602F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Tasks\MaskTracking\Entities\Entities.csproj", "{A5B85A6E-AD4E-4B57-97AD-3991B3A22FDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Tasks\MaskTracking\Entities\Entities.csproj", "{A5B85A6E-AD4E-4B57-97AD-3991B3A22FDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Tasks\MaskTracking\Business\Business.csproj", "{CE906DAB-828C-4F71-B8B5-85B405CF93B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business", "Tasks\MaskTracking\Business\Business.csproj", "{CE906DAB-828C-4F71-B8B5-85B405CF93B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkAround", "Tasks\MaskTracking\WorkAround\WorkAround.csproj", "{E13714CB-0FBB-4232-B649-AB2CF7513E9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkAround", "Tasks\MaskTracking\WorkAround\WorkAround.csproj", "{E13714CB-0FBB-4232-B649-AB2CF7513E9B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Intro", "Intro", "{22B491E1-3008-42B4-A731-56B8E984F3DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intro", "Intro\Intro\Intro.csproj", "{76F39019-8AAE-48E4-BFB7-8C7B8E99F586}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Intro", "Intro\Intro\Intro.csproj", "{76F39019-8AAE-48E4-BFB7-8C7B8E99F586}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
