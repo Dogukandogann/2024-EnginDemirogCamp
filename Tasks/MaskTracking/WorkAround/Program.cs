@@ -1,7 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using Business.Concrete;
 using Entities.Concrete;
-using System;
 
 PttManager pttManager = new PttManager(new PersonManager());
 
